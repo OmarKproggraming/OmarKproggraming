@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and mountain biking
 - 🌱 I’m currently learning so i almost finnished pyhton, next im gonna be learning html or c++
 - 💞️ I’m looking to collaborate on some cool programs
 - 📫 How to reach me lpugpuggy@gmail.com
